@@ -53,3 +53,8 @@ Anda tidak dapat menggunakan metode Array.prototype.reverse () .
 ```
 function reverseArrayInPlace (arr) {...}
 ```
+### Mean, Median, dan Mode
+
+-Deskripsi masalah
+
+baca ini http://avstatistik.blogspot.com/2012/09/pengertian-mean-median-dan-modus.html
