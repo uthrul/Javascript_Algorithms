@@ -39,6 +39,17 @@ Apa yang harus dilakukan Caesar Cipher adalah mendorong string input maju / mund
 Dalam latihan ini, kita harus melakukan fungsi yang dapat membalikkan kata, tetapi ada dua hal yang perlu diperhatikan:
 Kebalikannya adalah satu kata, bukan seluruh kalimat, seperti Ini adalah kucing , yang harus menjadi sihT si tac bukannya tac a si sihT .
 Anda tidak dapat menggunakan metode Array.prototype.reverse () .
-,,,
+```
 function reverseWords (str) {...}
-,,,
+```
+
+### reverse Array In Place
+
+-Deskripsi masalah
+
+Dalam latihan ini, kita harus membalikkan array input, tetapi ada beberapa hal yang perlu diperhatikan:
+Tidak mungkin untuk membuat array baru dan kemudian mendorong konten elemen baru ke array baru melalui push .
+Anda tidak dapat menggunakan metode Array.prototype.reverse () .
+```
+function reverseArrayInPlace (arr) {...}
+```
