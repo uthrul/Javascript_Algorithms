@@ -1,4 +1,4 @@
-# ALGORITHMS
+# JAVASCRIPT ALGORITHMS
 Learn from https://pjchender.blogspot.com/
 
 ### FizzBuzz Alghoritm
@@ -26,8 +26,19 @@ Misal :
 – Was it a car or a cat I saw?
 
 
-### CaesarCipher
+### Caesar Cipher
 
 -Deskripsi masalah
 
 Apa yang harus dilakukan Caesar Cipher adalah mendorong string input maju / mundur sesuai dengan nilai yang diberikan. Misalnya, jika Anda memasukkan string a dan nomor 2,Anda akan mendorong kembali dua digit, jadi Anda harus mengembalikannya. c.
+
+### Reverse words
+
+-Deskripsi masalah
+
+Dalam latihan ini, kita harus melakukan fungsi yang dapat membalikkan kata, tetapi ada dua hal yang perlu diperhatikan:
+Kebalikannya adalah satu kata, bukan seluruh kalimat, seperti Ini adalah kucing , yang harus menjadi sihT si tac bukannya tac a si sihT .
+Anda tidak dapat menggunakan metode Array.prototype.reverse () .
+,,,
+function reverseWords (str) {...}
+,,,
