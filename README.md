@@ -1,5 +1,5 @@
 # JAVASCRIPT ALGORITHMS
-Learn from https://pjchender.blogspot.com/
+
 
 ### FizzBuzz Alghoritm
 
@@ -13,6 +13,9 @@ Bagi sebagian orang mungkin sering mendengar istilah fizzbuzz, secara garis besa
 
 Ini adalah algoritma yang mirip dengan fitur kliping kata tunggal, mengatakan yang mana yang ingin kita dapatkan ( noteText ), dan kemudian mencari artikel ( magazineText ) untuk melihat apakah kita dapat menemukan kata-kata ini, dan jumlahnya cukup.
 Jadi tuliskan fungsi harmlessRansomNote dan gantikan dua parameter, noteText dan magazineText . Jika kata dan angka di noteText dapat ditemukan di magazineText, kembalikan true, jika tidak kembalikan false.
+
+Learn from https://pjchender.blogspot.com/
+
 
 ### IsPalindrome
 
@@ -80,3 +83,12 @@ Prinsip dari pencarian biner dapat dijelaskan sebagai berikut:
 - 4.Jika lebih kecil, proses dilakukan kembali tetapi posisi akhir dianggap sama dengan posisi tengah – 1.
 - 5.Jika lebih besar, proses dilakukan kembali tetapi posisi awal dianggap sama dengan posisi tengah + 1.
 - 6.Demikian seterusnya sampai data tengah sama dengan yang dicari.
+
+baca ini http://enkong.blogspot.com/2010/05/binary-search-pencarian-biner-dapat.html
+
+
+### FIBONACCI
+
+- Deskripsi masalah
+
+Fibonacci dikenal luas sebagai deret istimewa,Fibonacci adalah barisan yang diawali dengan angka dari 0 dan 1, kemudian angka berikutnya didapat dengan cara menambahkan kedua bilangan yang berurutan sebelumnya
