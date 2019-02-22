@@ -107,5 +107,12 @@ baca ini https://cokfriska55dexcel.wordpress.com/2013/05/22/sieve-of-eratosthene
 
 ### Bubble Sort
 
+- Deskripsi masalah
+
 Bubble Sort: Gunakan posisi pertukaran elemen dua-dua untuk mencapai sortir
 
+#### Merge Sort
+
+- Deskripsi masalah
+
+Nilai-nilai dalam array diurutkan berdasarkan suatu fungsi.
