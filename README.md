@@ -1,5 +1,9 @@
 # JAVASCRIPT ALGORITHMS
 
+#### Run Code 
+- cd ALGORITHMS
+- node fizzBuzzz
+
 
 ### FizzBuzz Alghoritm
 
@@ -99,3 +103,9 @@ Fibonacci dikenal luas sebagai deret istimewa,Fibonacci adalah barisan yang diaw
 - Deskripsi masalah
 
 baca ini https://cokfriska55dexcel.wordpress.com/2013/05/22/sieve-of-eratosthenes/
+
+
+### Bubble Sort
+
+Bubble Sort: Gunakan posisi pertukaran elemen dua-dua untuk mencapai sortir
+
