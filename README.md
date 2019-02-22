@@ -87,8 +87,15 @@ Prinsip dari pencarian biner dapat dijelaskan sebagai berikut:
 baca ini http://enkong.blogspot.com/2010/05/binary-search-pencarian-biner-dapat.html
 
 
-### FIBONACCI
+### FIBONACCI & Memoized Fibonacci
 
 - Deskripsi masalah
 
 Fibonacci dikenal luas sebagai deret istimewa,Fibonacci adalah barisan yang diawali dengan angka dari 0 dan 1, kemudian angka berikutnya didapat dengan cara menambahkan kedua bilangan yang berurutan sebelumnya
+
+
+### Sieve Of Eratosthenes
+
+- Deskripsi masalah
+
+baca ini https://cokfriska55dexcel.wordpress.com/2013/05/22/sieve-of-eratosthenes/
