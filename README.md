@@ -1,4 +1,5 @@
 # ALGORITHMS
+Learn from https://pjchender.blogspot.com/
 
 ### FizzBuzz Alghoritm
 
@@ -13,7 +14,7 @@ Bagi sebagian orang mungkin sering mendengar istilah fizzbuzz, secara garis besa
 Ini adalah algoritma yang mirip dengan fitur kliping kata tunggal, mengatakan yang mana yang ingin kita dapatkan ( noteText ), dan kemudian mencari artikel ( magazineText ) untuk melihat apakah kita dapat menemukan kata-kata ini, dan jumlahnya cukup.
 Jadi tuliskan fungsi harmlessRansomNote dan gantikan dua parameter, noteText dan magazineText . Jika kata dan angka di noteText dapat ditemukan di magazineText, kembalikan true, jika tidak kembalikan false.
 
-### palindrome.
+### IsPalindrome
 
 -Deskripsi masalah
 
@@ -23,3 +24,10 @@ Misal :
 – No x in Nixon
 – Lion oil
 – Was it a car or a cat I saw?
+
+
+### CaesarCipher
+
+-Deskripsi masalah
+
+Apa yang harus dilakukan Caesar Cipher adalah mendorong string input maju / mundur sesuai dengan nilai yang diberikan. Misalnya, jika Anda memasukkan string a dan nomor 2,Anda akan mendorong kembali dua digit, jadi Anda harus mengembalikannya. c.
